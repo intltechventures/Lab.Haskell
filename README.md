@@ -8,3 +8,4 @@ Useful Learning Resources
 Interesting Github Resources
 * http://dev.stephendiehl.com/fun/
   * https://github.com/sdiehl/write-you-a-haskell
+* https://github.com/seagreen/plate
