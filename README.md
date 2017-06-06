@@ -9,3 +9,6 @@ Interesting Github Resources
 * http://dev.stephendiehl.com/fun/
   * https://github.com/sdiehl/write-you-a-haskell
 * https://github.com/seagreen/plate
+* https://github.com/runarorama/lambda
+* https://github.com/data61/fp-course
+
